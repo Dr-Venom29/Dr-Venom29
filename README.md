@@ -1,11 +1,12 @@
 # 💫 About Me
 
-👋 Hi, I’m **Shashank Reddy**  
-**Computer Science & Engineering Student | Full-Stack Developer | AI Enthusiast**
+👋 Hi, I'm **Shashank Reddy**, a Computer Science & Engineering student at **KMIT** with an interest in **AI Engineering, Backend Development, and Full-Stack Development**.
 
-I’m a passionate developer focused on building **intelligent, scalable web applications** that bridge the gap between **complex data** and **user-friendly interfaces**.  
+I enjoy building AI-powered applications that combine **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and modern backend technologies to solve practical problems.
 
-Currently pursuing my **B.Tech at KMIT**, I specialize in integrating **LLMs** and **RAG pipelines** into modern web frameworks.
+Over the past year, I've worked on projects involving **document intelligence**, **contract analysis**, and **real-time analytics**, using technologies such as **Python**, **FastAPI**, **Flask**, **React**, **Node.js**, **MongoDB**, **ChromaDB**, **FAISS**, and **Google Gemini**. Along the way, I've explored **retrieval pipelines**, **vector databases**, **API development**, **deployment**, **observability**, and **AI system reliability**.
+
+I'm interested in building reliable AI systems, contributing to meaningful engineering projects, and continuously improving my skills in AI and backend development.
 
 ---
 
@@ -26,12 +27,10 @@ Currently pursuing my **B.Tech at KMIT**, I specialize in integrating **LLMs** a
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -61,21 +60,27 @@ Currently pursuing my **B.Tech at KMIT**, I specialize in integrating **LLMs** a
 
 ## 🚀 What I'm Working On
 
-- 🔭 Building AI-powered full-stack applications
-- 🧠 Exploring LLMs, RAG pipelines, and intelligent document workflows
-- 🌐 Creating scalable web apps with modern frontend + backend stacks
-- 📚 Continuously improving DSA, system design, and software engineering fundamentals
+* Building **production-oriented AI applications** with **LLMs**, **RAG**, and **vector databases**
+* Developing **scalable backend services** using **Python**, **FastAPI**, **Flask**, and **REST APIs**
+* Exploring **AI agents**, **evaluation frameworks**, **observability**, and **reliable AI system design**
+* Strengthening my knowledge of **system design**, **distributed systems**, and **software engineering fundamentals**
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com?user=Dr-Venom29&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Dr-Venom29&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=Dr-Venom29&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Dr-Venom29&theme=tokyo-night&hide_border=true)
+
+---
+
+## 📊 GitHub Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dr-Venom29&theme=tokyonight)
 
 ---
