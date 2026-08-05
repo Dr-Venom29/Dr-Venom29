@@ -29,9 +29,7 @@ I specialize in building intelligent, scalable applications that bridge the gap 
 
 ---
 
-
-
-## 💻 Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,7 +70,7 @@ I specialize in building intelligent, scalable applications that bridge the gap 
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 * Building **production-oriented AI applications** with **LLMs**, **RAG**, and **vector databases**
 * Developing **scalable backend services** using **Python**, **FastAPI**, **Flask**, and **REST APIs**
@@ -81,14 +79,12 @@ I specialize in building intelligent, scalable applications that bridge the gap 
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <!-- Streak — full width -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Dr-Venom29&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Dr-Venom29&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Dr-Venom29's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dr-Venom29&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dr-Venom29&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Dr-Venom29's streak" />
 </picture>
 
 <br/>
@@ -103,13 +99,7 @@ I specialize in building intelligent, scalable applications that bridge the gap 
   <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Dr-Venom29&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
+<br/>
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Dr-Venom29/Dr-Venom29/output/github-snake-dark.svg" />
@@ -122,20 +112,10 @@ I specialize in building intelligent, scalable applications that bridge the gap 
 
 ---
 
-## 📊 GitHub Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dr-Venom29&theme=tokyonight)
-
----
-
-## 🌐 Socials
+## Socials
 
 <div align="center">
-<a href="https://www.linkedin.com/in/shashank-reddy2029">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/shashank-reddy2029"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:redhulk2029@gmail.com">
-<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
+<a href="mailto:redhulk2029@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
 </div>
