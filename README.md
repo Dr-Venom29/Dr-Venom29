@@ -34,32 +34,32 @@ I specialize in building intelligent, scalable applications that bridge the gap 
 ### Frontend & Core
 | HTML5 | CSS3 | JavaScript | React | Bootstrap |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="./assets/icons/html5.svg" height="40" alt="HTML5" title="HTML5" /> | <img src="./assets/icons/css3.svg" height="40" alt="CSS3" title="CSS3" /> | <img src="./assets/icons/javascript.svg" height="40" alt="JavaScript" title="JavaScript" /> | <img src="./assets/icons/react.svg" height="40" alt="React" title="React" /> | <img src="./assets/icons/bootstrap.svg" height="40" alt="Bootstrap" title="Bootstrap" /> |
+| <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" title="HTML5" /> | <img src="https://cdn.simpleicons.org/css3" height="40" alt="CSS3" title="CSS3" /> | <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" title="JavaScript" /> | <img src="https://cdn.simpleicons.org/react" height="40" alt="React" title="React" /> | <img src="https://cdn.simpleicons.org/bootstrap" height="40" alt="Bootstrap" title="Bootstrap" /> |
 
 ### Backend & APIs
 | Python | Java | Node.js | Express.js | JWT |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="./assets/icons/python.svg" height="40" alt="Python" title="Python" /> | <img src="./assets/icons/java.svg" height="40" alt="Java" title="Java" /> | <img src="./assets/icons/nodejs.svg" height="40" alt="Node.js" title="Node.js" /> | <img src="./assets/icons/express.svg" height="40" alt="Express.js" title="Express.js" /> | <img src="./assets/icons/jwt.svg" height="40" alt="JWT" title="JWT" /> |
+| <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" title="Python" /> | <img src="https://cdn.simpleicons.org/java" height="40" alt="Java" title="Java" /> | <img src="https://cdn.simpleicons.org/nodedotjs" height="40" alt="Node.js" title="Node.js" /> | <img src="https://cdn.simpleicons.org/express/e2e8f0" height="40" alt="Express.js" title="Express.js" /> | <img src="https://cdn.simpleicons.org/jsonwebtokens/e2e8f0" height="40" alt="JWT" title="JWT" /> |
 
 ### Databases
 | MongoDB | MySQL | Supabase |
 |:---:|:---:|:---:|
-| <img src="./assets/icons/mongodb.svg" height="40" alt="MongoDB" title="MongoDB" /> | <img src="./assets/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" /> | <img src="./assets/icons/supabase.svg" height="40" alt="Supabase" title="Supabase" /> |
+| <img src="https://cdn.simpleicons.org/mongodb" height="40" alt="MongoDB" title="MongoDB" /> | <img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL" title="MySQL" /> | <img src="https://cdn.simpleicons.org/supabase" height="40" alt="Supabase" title="Supabase" /> |
 
 ### AI & Data Science
 | PyTorch | TensorFlow | scikit-learn | pandas | NumPy | Matplotlib |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="./assets/icons/pytorch.svg" height="40" alt="PyTorch" title="PyTorch" /> | <img src="./assets/icons/tensorflow.svg" height="40" alt="TensorFlow" title="TensorFlow" /> | <img src="./assets/icons/scikitlearn.svg" height="40" alt="scikit-learn" title="scikit-learn" /> | <img src="./assets/icons/pandas.svg" height="40" alt="pandas" title="pandas" /> | <img src="./assets/icons/numpy.svg" height="40" alt="NumPy" title="NumPy" /> | <img src="./assets/icons/matplotlib.svg" height="40" alt="Matplotlib" title="Matplotlib" /> |
+| <img src="https://cdn.simpleicons.org/pytorch" height="40" alt="PyTorch" title="PyTorch" /> | <img src="https://cdn.simpleicons.org/tensorflow" height="40" alt="TensorFlow" title="TensorFlow" /> | <img src="https://cdn.simpleicons.org/scikitlearn" height="40" alt="scikit-learn" title="scikit-learn" /> | <img src="https://cdn.simpleicons.org/pandas/e2e8f0" height="40" alt="pandas" title="pandas" /> | <img src="https://cdn.simpleicons.org/numpy/e2e8f0" height="40" alt="NumPy" title="NumPy" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" /> |
 
 ### DevOps & Cloud
 | Docker | AWS | Google Cloud | Vercel | Render | Jenkins | Nginx |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="./assets/icons/docker.svg" height="40" alt="Docker" title="Docker" /> | <img src="./assets/icons/aws.svg" height="40" alt="AWS" title="AWS" /> | <img src="./assets/icons/googlecloud.svg" height="40" alt="Google Cloud" title="Google Cloud" /> | <img src="./assets/icons/vercel.svg" height="40" alt="Vercel" title="Vercel" /> | <img src="./assets/icons/render.svg" height="40" alt="Render" title="Render" /> | <img src="./assets/icons/jenkins.svg" height="40" alt="Jenkins" title="Jenkins" /> | <img src="./assets/icons/nginx.svg" height="40" alt="Nginx" title="Nginx" /> |
+| <img src="https://cdn.simpleicons.org/docker" height="40" alt="Docker" title="Docker" /> | <img src="https://cdn.simpleicons.org/amazonwebservices" height="40" alt="AWS" title="AWS" /> | <img src="https://cdn.simpleicons.org/googlecloud" height="40" alt="Google Cloud" title="Google Cloud" /> | <img src="https://cdn.simpleicons.org/vercel/e2e8f0" height="40" alt="Vercel" title="Vercel" /> | <img src="https://cdn.simpleicons.org/render/e2e8f0" height="40" alt="Render" title="Render" /> | <img src="https://cdn.simpleicons.org/jenkins" height="40" alt="Jenkins" title="Jenkins" /> | <img src="https://cdn.simpleicons.org/nginx" height="40" alt="Nginx" title="Nginx" /> |
 
 ### Tools
 | C | Git | GitHub | Postman |
 |:---:|:---:|:---:|:---:|
-| <img src="./assets/icons/c.svg" height="40" alt="C" title="C" /> | <img src="./assets/icons/git.svg" height="40" alt="Git" title="Git" /> | <img src="./assets/icons/github.svg" height="40" alt="GitHub" title="GitHub" /> | <img src="./assets/icons/postman.svg" height="40" alt="Postman" title="Postman" /> |
+| <img src="https://cdn.simpleicons.org/c/e2e8f0" height="40" alt="C" title="C" /> | <img src="https://cdn.simpleicons.org/git" height="40" alt="Git" title="Git" /> | <img src="https://cdn.simpleicons.org/github/e2e8f0" height="40" alt="GitHub" title="GitHub" /> | <img src="https://cdn.simpleicons.org/postman" height="40" alt="Postman" title="Postman" /> |
 
 ---
 
