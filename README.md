@@ -14,7 +14,16 @@
 
 <br>
 
-I specialize in building intelligent, scalable applications that bridge the gap between AI research and practical solutions. Here is a quick snapshot of my focus areas:
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-4CAF50?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</div>
+
+<br>
+
+Building AI-powered applications with LLMs, RAG, backend engineering, and modern cloud technologies.
 
 | Focus Area | Description & Technologies |
 | :--- | :--- |
@@ -27,19 +36,19 @@ I specialize in building intelligent, scalable applications that bridge the gap 
   <i>Continuously learning, building reliable AI systems, and contributing to impactful engineering projects.</i>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 <h2 align="center">Tech Stack</h2>
 
 ### Frontend & Core
 | HTML5 | CSS3 | JavaScript | React | Bootstrap |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" title="HTML5" /> | <img src="https://cdn.simpleicons.org/css3" height="40" alt="CSS3" title="CSS3" /> | <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" title="JavaScript" /> | <img src="https://cdn.simpleicons.org/react" height="40" alt="React" title="React" /> | <img src="https://cdn.simpleicons.org/bootstrap" height="40" alt="Bootstrap" title="Bootstrap" /> |
+| <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" title="HTML5" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" /> | <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" title="JavaScript" /> | <img src="https://cdn.simpleicons.org/react" height="40" alt="React" title="React" /> | <img src="https://cdn.simpleicons.org/bootstrap" height="40" alt="Bootstrap" title="Bootstrap" /> |
 
 ### Backend & APIs
 | Python | Java | Node.js | Express.js | JWT |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" title="Python" /> | <img src="https://cdn.simpleicons.org/java" height="40" alt="Java" title="Java" /> | <img src="https://cdn.simpleicons.org/nodedotjs" height="40" alt="Node.js" title="Node.js" /> | <img src="https://cdn.simpleicons.org/express/e2e8f0" height="40" alt="Express.js" title="Express.js" /> | <img src="https://cdn.simpleicons.org/jsonwebtokens/e2e8f0" height="40" alt="JWT" title="JWT" /> |
+| <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" title="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" title="Java" /> | <img src="https://cdn.simpleicons.org/nodedotjs" height="40" alt="Node.js" title="Node.js" /> | <img src="https://cdn.simpleicons.org/express/e2e8f0" height="40" alt="Express.js" title="Express.js" /> | <img src="https://cdn.simpleicons.org/jsonwebtokens/e2e8f0" height="40" alt="JWT" title="JWT" /> |
 
 ### Databases
 | MongoDB | MySQL | Supabase |
@@ -54,14 +63,14 @@ I specialize in building intelligent, scalable applications that bridge the gap 
 ### DevOps & Cloud
 | Docker | AWS | Google Cloud | Vercel | Render | Jenkins | Nginx |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/docker" height="40" alt="Docker" title="Docker" /> | <img src="https://cdn.simpleicons.org/amazonwebservices" height="40" alt="AWS" title="AWS" /> | <img src="https://cdn.simpleicons.org/googlecloud" height="40" alt="Google Cloud" title="Google Cloud" /> | <img src="https://cdn.simpleicons.org/vercel/e2e8f0" height="40" alt="Vercel" title="Vercel" /> | <img src="https://cdn.simpleicons.org/render/e2e8f0" height="40" alt="Render" title="Render" /> | <img src="https://cdn.simpleicons.org/jenkins" height="40" alt="Jenkins" title="Jenkins" /> | <img src="https://cdn.simpleicons.org/nginx" height="40" alt="Nginx" title="Nginx" /> |
+| <img src="https://cdn.simpleicons.org/docker" height="40" alt="Docker" title="Docker" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" /> | <img src="https://cdn.simpleicons.org/googlecloud" height="40" alt="Google Cloud" title="Google Cloud" /> | <img src="https://cdn.simpleicons.org/vercel/e2e8f0" height="40" alt="Vercel" title="Vercel" /> | <img src="https://cdn.simpleicons.org/render/e2e8f0" height="40" alt="Render" title="Render" /> | <img src="https://cdn.simpleicons.org/jenkins" height="40" alt="Jenkins" title="Jenkins" /> | <img src="https://cdn.simpleicons.org/nginx" height="40" alt="Nginx" title="Nginx" /> |
 
 ### Tools
 | C | Git | GitHub | Postman |
 |:---:|:---:|:---:|:---:|
 | <img src="https://cdn.simpleicons.org/c/e2e8f0" height="40" alt="C" title="C" /> | <img src="https://cdn.simpleicons.org/git" height="40" alt="Git" title="Git" /> | <img src="https://cdn.simpleicons.org/github/e2e8f0" height="40" alt="GitHub" title="GitHub" /> | <img src="https://cdn.simpleicons.org/postman" height="40" alt="Postman" title="Postman" /> |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 <div align="center">
 
@@ -94,7 +103,7 @@ I specialize in building intelligent, scalable applications that bridge the gap 
   </picture>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 ## Socials
 
