@@ -31,56 +31,35 @@ I specialize in building intelligent, scalable applications that bridge the gap 
 
 <h2 align="center">Tech Stack</h2>
 
-<div align="center">
-  <br>
-  <p><b>💻 Frontend & Core</b></p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
-  <br><br>
-  <p><b>⚙️ Backend & APIs</b></p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+### Frontend & Core
+| HTML5 | CSS3 | JavaScript | React | Bootstrap |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="./assets/icons/html5.svg" height="40" alt="HTML5" title="HTML5" /> | <img src="./assets/icons/css3.svg" height="40" alt="CSS3" title="CSS3" /> | <img src="./assets/icons/javascript.svg" height="40" alt="JavaScript" title="JavaScript" /> | <img src="./assets/icons/react.svg" height="40" alt="React" title="React" /> | <img src="./assets/icons/bootstrap.svg" height="40" alt="Bootstrap" title="Bootstrap" /> |
 
-  <br><br>
-  <p><b>🗄️ Databases</b></p>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+### Backend & APIs
+| Python | Java | Node.js | Express.js | JWT |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="./assets/icons/python.svg" height="40" alt="Python" title="Python" /> | <img src="./assets/icons/java.svg" height="40" alt="Java" title="Java" /> | <img src="./assets/icons/nodejs.svg" height="40" alt="Node.js" title="Node.js" /> | <img src="./assets/icons/express.svg" height="40" alt="Express.js" title="Express.js" /> | <img src="./assets/icons/jwt.svg" height="40" alt="JWT" title="JWT" /> |
 
-  <br><br>
-  <p><b>🤖 AI & Data Science</b></p>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  
-  <br><br>
-  <p><b>☁️ DevOps & Cloud</b></p>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+### Databases
+| MongoDB | MySQL | Supabase |
+|:---:|:---:|:---:|
+| <img src="./assets/icons/mongodb.svg" height="40" alt="MongoDB" title="MongoDB" /> | <img src="./assets/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" /> | <img src="./assets/icons/supabase.svg" height="40" alt="Supabase" title="Supabase" /> |
 
-  <br><br>
-  <p><b>🛠️ Tools</b></p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <br><br>
-</div>
+### AI & Data Science
+| PyTorch | TensorFlow | scikit-learn | pandas | NumPy | Matplotlib |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="./assets/icons/pytorch.svg" height="40" alt="PyTorch" title="PyTorch" /> | <img src="./assets/icons/tensorflow.svg" height="40" alt="TensorFlow" title="TensorFlow" /> | <img src="./assets/icons/scikitlearn.svg" height="40" alt="scikit-learn" title="scikit-learn" /> | <img src="./assets/icons/pandas.svg" height="40" alt="pandas" title="pandas" /> | <img src="./assets/icons/numpy.svg" height="40" alt="NumPy" title="NumPy" /> | <img src="./assets/icons/matplotlib.svg" height="40" alt="Matplotlib" title="Matplotlib" /> |
+
+### DevOps & Cloud
+| Docker | AWS | Google Cloud | Vercel | Render | Jenkins | Nginx |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="./assets/icons/docker.svg" height="40" alt="Docker" title="Docker" /> | <img src="./assets/icons/aws.svg" height="40" alt="AWS" title="AWS" /> | <img src="./assets/icons/googlecloud.svg" height="40" alt="Google Cloud" title="Google Cloud" /> | <img src="./assets/icons/vercel.svg" height="40" alt="Vercel" title="Vercel" /> | <img src="./assets/icons/render.svg" height="40" alt="Render" title="Render" /> | <img src="./assets/icons/jenkins.svg" height="40" alt="Jenkins" title="Jenkins" /> | <img src="./assets/icons/nginx.svg" height="40" alt="Nginx" title="Nginx" /> |
+
+### Tools
+| C | Git | GitHub | Postman |
+|:---:|:---:|:---:|:---:|
+| <img src="./assets/icons/c.svg" height="40" alt="C" title="C" /> | <img src="./assets/icons/git.svg" height="40" alt="Git" title="Git" /> | <img src="./assets/icons/github.svg" height="40" alt="GitHub" title="GitHub" /> | <img src="./assets/icons/postman.svg" height="40" alt="Postman" title="Postman" /> |
 
 ---
 

@@ -1,0 +1,24 @@
+{
+  "name": "dr-venom29",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <picture>     <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/header-dark.png\">     <img alt=\"Logo for Shashank Reddy\" src=\"assets/header-light.png\">   </picture> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dr-Venom29/Dr-Venom29.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dr-Venom29/Dr-Venom29/issues"
+  },
+  "homepage": "https://github.com/Dr-Venom29/Dr-Venom29#readme",
+  "dependencies": {
+    "tech-stack-icons": "^3.7.1"
+  }
+}
