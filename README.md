@@ -5,24 +5,31 @@
   </picture>
 </div>
 
-# 💫 About Me
+<h1 align="center">About Me</h1>
 
-👋 Hi, I'm **Shashank Reddy**, a Computer Science & Engineering student at **KMIT** with an interest in **AI Engineering, Backend Development, and Full-Stack Development**.
+<div align="center">
+  <i>Computer Science & Engineering Student @ KMIT</i><br>
+  <i>Passionate about <b>AI Engineering</b>, <b>Backend Architecture</b>, & <b>Full-Stack Development</b>.</i>
+</div>
 
-I enjoy building AI-powered applications that combine **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and modern backend technologies to solve practical problems.
+<br>
 
-Over the past year, I've worked on projects involving **document intelligence**, **contract analysis**, and **real-time analytics**, using technologies such as **Python**, **FastAPI**, **Flask**, **React**, **Node.js**, **MongoDB**, **ChromaDB**, **FAISS**, and **Google Gemini**. Along the way, I've explored **retrieval pipelines**, **vector databases**, **API development**, **deployment**, **observability**, and **AI system reliability**.
+I specialize in building intelligent, scalable applications that bridge the gap between AI research and practical solutions. Here is a quick snapshot of my focus areas:
 
-I'm interested in building reliable AI systems, contributing to meaningful engineering projects, and continuously improving my skills in AI and backend development.
+| Focus Area | Description & Technologies |
+| :--- | :--- |
+| **AI & LLM Integration** | Building intelligent tools using **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, and agentic workflows. |
+| **Backend Engineering** | Designing robust REST APIs and real-time data pipelines using **Python**, **FastAPI**, **Node.js**, and vector databases (**MongoDB**, **ChromaDB**, **FAISS**). |
+| **Core Interests** | Document intelligence, contract analysis, API deployment, observability, and AI system reliability. |
+
+<div align="center">
+  <br>
+  <i>Continuously learning, building reliable AI systems, and contributing to impactful engineering projects.</i>
+</div>
 
 ---
 
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-reddy2029)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redhulk2029@gmail.com)
-
----
 
 ## 💻 Tech Stack
 
@@ -120,3 +127,15 @@ I'm interested in building reliable AI systems, contributing to meaningful engin
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dr-Venom29&theme=tokyonight)
 
 ---
+
+## 🌐 Socials
+
+<div align="center">
+<a href="https://www.linkedin.com/in/shashank-reddy2029">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:redhulk2029@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
